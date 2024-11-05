@@ -19,6 +19,5 @@ IT Student delving into Flutter for sleek applications, versed in HTML, CSS, Py 
 ![](https://github-contributor-stats.vercel.app/api?username=madhavbhayani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=madhavbhayani&icon=4&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=madhavbhayani&icon=4&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
