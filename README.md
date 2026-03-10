@@ -59,6 +59,7 @@ Currently working on **AI / ML projects** and shipping one production-grade lear
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
@@ -91,6 +92,10 @@ Currently working on **AI / ML projects** and shipping one production-grade lear
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 
+#### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Flame](https://img.shields.io/badge/Flame_Engine-FF6600?style=flat-square&logo=flutter&logoColor=white)
+
 #### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -101,20 +106,48 @@ Currently working on **AI / ML projects** and shipping one production-grade lear
 
 ## Areas of Focus
 
-> The bar `[####################]` represents depth of hands-on experience across 20 units.
-> Each `#` = 5% proficiency. A `-` means that portion is still being built.
+> Each `#` = 5% proficiency across a 20-unit bar. `-` = actively being developed.
 
 ```
 Full-Stack Development    [###################-]  95%  Flutter + Node.js + REST APIs
 Database Engineering      [##################--]  90%  PostgreSQL, NeonDB, Firebase
 Mobile Engineering        [##################--]  90%  Flutter, cross-platform apps
 Backend Architecture      [#################---]  85%  Microservices, scalable APIs
+Game Development          [###############-----]  75%  Unity (C#), Flame / Flutter
 AI / ML Engineering       [###############-----]  75%  Computer vision, NLP, models
 Robotics & IoT            [##############------]  70%  ROS, embedded systems, sensors
 Cloud & Deployment        [#############-------]  65%  Vercel, Firebase, Docker
 System Design             [#############-------]  65%  Distributed, high-availability
-Blockchain Development    [###########----------]  55%  Learning — active project WIP
+Open Source               [############--------]  60%  Active contributor
+Blockchain Development    [###########---------]  55%  Learning — active project WIP
 ```
+
+---
+
+## The Developer Behind the Code
+
+```
+  Architecture first, code second.
+  I don't open an editor until I can draw the system in my head.
+  The whiteboard is the first line of code.
+
+  Most commits happen after midnight.
+  The world is quieter, the terminal is louder,
+  and focus sharpens when everything else powers down.
+
+  Debugging is not a chore — it is an investigation.
+  Every bug is a question the system is asking.
+  The answer is always somewhere in the logic.
+```
+
+---
+
+## Certifications
+
+| Platform | Course | Credential |
+|----------|--------|------------|
+| Coursera | *Generative AI: Prompt Engineering Basics* | [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/V3HK97D50IRP) |
+
 
 ---
 
@@ -125,6 +158,7 @@ Blockchain Development    [###########----------]  55%  Learning — active proj
 [ACTIVE]    Monthly Learning Projects — One shipped project per month, no exceptions
 [ACTIVE]    Doctor Plant              — AI plant disease detection app (April 2026)
 [ACTIVE]    Blockchain Project        — Decentralized application (April 2026)
+[ACTIVE]    Open Source               — Contributing to projects across the ecosystem
 [LEARNING]  Advanced Model Fine-tuning, LLM Integration, On-device AI via Flutter
 [LEARNING]  Smart Contract Development, Web3 fundamentals
 ```
@@ -144,28 +178,24 @@ Blockchain Development    [###########----------]  55%  Learning — active proj
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhavbhayani&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ## GitHub Statistics
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=madhavbhayani&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=Contribution+Overview" />
-  &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavbhayani&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="180"
+  src="https://github-readme-stats.vercel.app/api?username=madhavbhayani&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=Contribution+Overview"
+  alt="GitHub Stats" />
+&nbsp;
+<img height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavbhayani&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  alt="Top Languages" />
 
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavbhayani&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="Total Contributions | Current Streak | Longest Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=madhavbhayani&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E"
+    alt="Total Contributions | Current Streak | Longest Streak" />
 </div>
 
 ---
@@ -173,8 +203,49 @@ Blockchain Development    [###########----------]  55%  Learning — active proj
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavbhayani&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Contribution Activity Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=madhavbhayani&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"
+    alt="Contribution Activity Graph" />
 </div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/madhavbhayani/madhavbhayani/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/madhavbhayani/madhavbhayani/output/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/madhavbhayani/madhavbhayani/output/github-snake.svg" />
+  </picture>
+</div>
+
+<!--
+  SETUP: Create .github/workflows/snake.yml in this repo with the following content:
+
+  name: Generate Snake
+  on:
+    schedule: [{ cron: "0 0 * * *" }]
+    workflow_dispatch:
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: madhavbhayani
+            outputs: |
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3.1.0
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
 
 ---
 
