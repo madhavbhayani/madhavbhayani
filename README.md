@@ -48,6 +48,19 @@ Currently shipping **one production-grade project every month** and diving deep 
 | **Apr - Jul '26** | **Annotralabs** | Local Annotation Platform | 🚀 Started | Shipping July 2026 |
 
 ---
+## 🏢 Working on Organization
+<div align="center">
+
+[![Annotralabs](https://img.shields.io/badge/Annotralabs-Local_Annotation_Platform-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annotralabs)
+
+**Mission:** Building powerful, privacy-focused local annotation tools  
+**Status:** 🚀 Active Development | **Launch:** July 2026
+
+[Visit Organization →](https://github.com/annotralabs)
+</div>
+
+
+---
 
 ### 📊 GitHub Statistics
 
@@ -76,8 +89,32 @@ Currently shipping **one production-grade project every month** and diving deep 
 </div>
 
 ---
+<p align="center">
+<a href="https://linkedin.com/in/madhavbhayani" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/madhavbhayani21" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:madhavbhayani21@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/madhavbhayani">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
+
+
+
 
 <div align="center">
   <strong>🚀 Building systems that think, move, and scale.</strong><br>
   <em>📦 Shipping monthly. | 💼 Open to internships & high-impact roles.</em>
 </div>
+
+
+
+
+
+
+
