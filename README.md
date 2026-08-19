@@ -45,7 +45,7 @@ Currently shipping **one production-grade project every month** and diving deep 
 | :--- | :--- | :--- | :--- | :--- |
 | **Feb '26** | **DataForge** | Flutter, Firebase, Node.js | ✅ Shipped | [dataforge.web.app](https://dataforge.web.app/) |
 | **Mar '26** | **ChatCraft** | Flutter, Firebase, AI | ✅ Shipped | [chatcraft.web.app](https://chatcraft.web.app/) |
-| **Apr - Jul '26** | **Annotralabs** | Local Annotation Platform | 🚀 Started | Shipping July 2026 |
+| **Apr - Jul '26** | **Annotralabs** | Local Annotation Platform | 🚀 Started | Shipping September 2026 |
 
 ---
 ## 🏢 Working on Organization
